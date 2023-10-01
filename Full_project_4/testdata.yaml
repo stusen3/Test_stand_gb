@@ -1,0 +1,7 @@
+address: https://test-stand.gb.ru/login
+api_address: https://test-stand.gb.ru/gateway/login
+api_url: https://test-stand.gb.ru/api/posts
+browser: chrome
+sleep_time: 1
+username: dima11
+password: b90ab7e1b5
